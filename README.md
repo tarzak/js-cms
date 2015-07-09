@@ -19,6 +19,7 @@ Modular JavaScript CMS based on io.js &amp; backbone.js
 - Log
 - Debug
 - Config
+- ? Statistic module (to gather various information)
  
 ## MongoDB collections structure:
 - Posts
